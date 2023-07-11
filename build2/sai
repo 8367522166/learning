@@ -5,4 +5,4 @@ trigger:
 pool:
   name: Default
 steps:
-  - bash: mvn package
+  - bash: pwd
